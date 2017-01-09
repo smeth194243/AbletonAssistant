@@ -1,5 +1,6 @@
 package assistant.view;
 
-public class AssistantPanel {
+public class AssistantPanel 
+{
 
 }

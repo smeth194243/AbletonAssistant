@@ -1,6 +1,6 @@
 package assistant.model;
 
-public class Assistant 
+public class GridArray 
 {
-
+	
 }
